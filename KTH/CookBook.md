@@ -45,6 +45,10 @@ A:
 
 ---
 
+### AutoEncoder(AE)의 한계란?
+
+{...}
+
 ### Variational Autoencoder(VAE)란?
 Q: Variational Autoencoder(VAE)란?  
 A:  
